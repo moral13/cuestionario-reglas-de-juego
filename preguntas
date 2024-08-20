@@ -1,0 +1,13 @@
+[
+  {
+    "question": "¿Cuántos jugadores conforman un equipo de fútbol?",
+    "options": ["10", "11", "12", "9"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué ocurre si el balón cruza completamente la línea de gol?",
+    "options": ["Es gol", "Se repite el tiro", "No cuenta como gol", "Es fuera de juego"],
+    "answer": 0
+  }
+  // Agrega más preguntas aquí...
+]
